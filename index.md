@@ -51,7 +51,7 @@ Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fo
 
 Qing Ma ([GitHub](http://github.com/foryoublue)).
 
-![Qing Ma](https://en.gravatar.com/userimage/36988420/f231a80a5729612b3ba1fdbf16e027ce.jpg?size=200)
+![Qing Ma](https://en.gravatar.com/userimage/36988420/7c0c3cdfe4b6185170bc00062a898977.png?size=150)
 
 ### License
 
