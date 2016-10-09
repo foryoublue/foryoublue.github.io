@@ -4,8 +4,7 @@ layout: default
 
 Welcome to for you blue.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=foryoublue&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+<iframe src="https://ghbtns.com/github-btn.html?user=foryoublue&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 
 ## Solo is useful if...
 
