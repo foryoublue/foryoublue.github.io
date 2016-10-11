@@ -1,6 +1,6 @@
 # Site settings
 title: foryou.blue
-tag_text: for you blue
+tag_text: foryou<span class="blue">.</span>blue
 description: A blog about web development, blues and rock
 
 # Build settings
