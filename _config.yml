@@ -1,7 +1,7 @@
 # Site settings
 title: foryou.blue
 tag_text: foryou<span class="blue">.</span>blue
-description: A blog about web development, blues and rock
+description: Life about programming, blues and rock
 
 # Build settings
 markdown: kramdown
